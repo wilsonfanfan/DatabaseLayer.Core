@@ -7,11 +7,8 @@ DatabaseLayer.Core  is a high-performance Micro-ORM that supports SQL Server Thi
   - Use the RetrieveCriteria query to return the DataTable, the IList result set, and support the cursor.
   - Support for multiple entities including operations in transactions
 
-# Tutorial
-See [DatabaseLayer.Core Tutorial](https://github.com/wilsonfanfan/Elfin/blob/master/ElfinTutorial.docx?raw=true)
-
-# Online entity generation tool
-[DatabaselayerTool](https://databaselayer.azurewebsites.net/)
+# Tutorial and Online entity generation tool 
+[Databaselayer](https://databaselayer.azurewebsites.net/)
 
 # Entity Operation 
 ## Insert
