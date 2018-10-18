@@ -1,0 +1,13 @@
+﻿<Sys-mapping>
+  <class name="r_Log" table="r_Log" datasource="TestDb">
+    <attribute name="LogID" column="LogID" type="Integer" key="primary" increment="true" size="4" />
+    <attribute name="InsertDateTime" column="InsertDateTime" type="String" size="100" />
+    <attribute name="DataCount" column="DataCount" type="BigInt" size="8" />
+    <attribute name="QueryTimestamp" column="QueryTimestamp" type="String" size="256" />
+    <attribute name="IngestTimestamp" column="IngestTimestamp" type="String" size="256" />
+    <attribute name="UserID" column="UserID" type="String" size="128" />
+    <attribute name="Status" column="Status" type="String" size="64" />
+    <attribute name="Remark" column="Remark" type="String" size="2560" />
+    <attribute name="ActivityDate" column="ActivityDate" type="String" size="256" />
+  </class>
+</Sys-mapping>

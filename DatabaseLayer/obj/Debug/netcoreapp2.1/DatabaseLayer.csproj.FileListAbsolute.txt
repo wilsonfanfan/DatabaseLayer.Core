@@ -1,0 +1,17 @@
+D:\Repo_DatabaseLayer\X\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.deps.json
+D:\Repo_DatabaseLayer\X\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.dll
+D:\Repo_DatabaseLayer\X\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.pdb
+D:\Repo_DatabaseLayer\X\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Repo_DatabaseLayer\X\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfoInputs.cache
+D:\Repo_DatabaseLayer\X\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfo.cs
+D:\Repo_DatabaseLayer\X\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.dll
+D:\Repo_DatabaseLayer\X\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.pdb
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.deps.json
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.dll
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.pdb
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.csprojAssemblyReference.cache
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfoInputs.cache
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfo.cs
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.dll
+D:\Repo_DatabaseLayer\ToGit\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.pdb

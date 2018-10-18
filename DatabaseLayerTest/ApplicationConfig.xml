@@ -1,0 +1,28 @@
+﻿<ApplicationBase>
+  <ResourceInfo>
+    <SystemID>CoreApp</SystemID>
+    <SystemName>CoreApp</SystemName>
+    <UserCompany>2018</UserCompany>
+    <DefaultDataSource>TestDb</DefaultDataSource>
+    <DevelopeCompany>2018</DevelopeCompany>
+    <ReleaseDate>2018-07-09</ReleaseDate>
+    <ExpiryDate>2028-07-09</ExpiryDate>
+    <Version>1.0</Version>
+  </ResourceInfo>
+  <PersistenceInfo>
+    <dataSource name="TestDb" type="MSSqlServer">
+      <parameter name="Windows Connection" value="Server=.; Database=TestDb; Integrated Security=True"/>
+    </dataSource>
+    <!--Generated using tools-->
+    <dataSource name="Db2" type="MSSqlServer">
+      <parameter name="data source" value=""/>
+      <parameter name="Initial catalog" value="Db2"/>
+      <parameter name="User id" value="sa"/>
+      <parameter name="Password" value="1bxixW+0O0tDww=="/>
+      <parameter name="Encrypt" value=""/>
+    </dataSource>
+    <ORMapping>
+      <ORMappingFile path="Sys.ORMapping.xml" />
+    </ORMapping>
+  </PersistenceInfo>
+</ApplicationBase>
