@@ -8,7 +8,7 @@ DatabaseLayer.Core  is a high-performance Micro-ORM that supports SQL Server Thi
   - Support for multiple entities including operations in transactions
 
 # Tutorial and Online entity generation tool 
-[Databaselayer](https://databaselayer.azurewebsites.net/)
+See [Databaselayer](https://databaselayer.azurewebsites.net/)
 
 # Entity Operation 
 ## Insert
