@@ -242,8 +242,6 @@ namespace DatabaseLayer.PersistenceConfig
                 if (file.IndexOf(':') < 0)
                 {
                     file = m_DatabaseXmlFile.Substring(0, m_DatabaseXmlFile.LastIndexOf('\\') + 1) + file;
-                    //whether the file exists
-                    if (!File.Exists(file)) file = m_DatabaseXmlFile.Substring(0, m_DatabaseXmlFile.LastIndexOf('\\') + 1) + "../../../" + m_ClassMapFiles[i].ToString().Trim();
                 }
                 Assert.Verify(file != "", Error.XmlReadError, "Please specify the ClassMap path");
                 LoadClassMapInformation(file);
