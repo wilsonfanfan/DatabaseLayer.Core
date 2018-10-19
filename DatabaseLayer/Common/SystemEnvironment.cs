@@ -19,8 +19,7 @@ namespace DatabaseLayer.Entity
 
         private SystemEnvironment()
         {
-            this.m_ConfigFile = Directory.GetCurrentDirectory() + @"\ApplicationConfig.xml";
-            if (!File.Exists(m_ConfigFile)) this.m_ConfigFile = AppDomain.CurrentDomain.BaseDirectory + "../../../" + "ApplicationConfig.xml";
+            this.m_ConfigFile = AppDomain.CurrentDomain.BaseDirectory + @"ApplicationConfig.xml";
             this.m_ResourceInfo = new ResourceInfo(m_ConfigFile);
             this.m_AuthorizationObject = GetAuthorizationObject(this.m_ConfigFile);
             this.m_MapPath = Directory.GetCurrentDirectory();
